@@ -42,7 +42,7 @@ function updateActiveLink(currentPath) {
 
 function initFooter() {
     const year = new Date().getFullYear()
-    footer.textContent = `© ${year} Praktikum Web Dasar`
+    footer.textContent = `© ${year} UTS Pemrograman Web Lanjut`
 }
 
 

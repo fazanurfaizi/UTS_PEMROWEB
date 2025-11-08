@@ -10,7 +10,7 @@ export function init() {
             { tingkat: 'SD', sekolah: 'SDN Sindanglaya 04', tahun: '2015' },
             { tingkat: 'SMP', sekolah: 'SMPN 17 Bandung', tahun: '2018' },
             { tingkat: 'SMK', sekolah: 'SMKN 04 Bandung', tahun: '2021' },
-            { tingkat: 'Perguruan Tinggi', sekolah: 'Universitas Widyata', tahun: 'Ongoing' }
+            { tingkat: 'Perguruan Tinggi', sekolah: 'Universitas Widyatama', tahun: 'Ongoing' }
         ];
 
         table.innerHTML = '';
